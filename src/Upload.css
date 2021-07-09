@@ -1,0 +1,20 @@
+form{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(150, 219, 219);
+    
+}
+
+input{
+    border: none;
+    width: 90%;
+}
+
+ul{
+    display:flex;
+    flex-direction: column;
+    list-style-type: none;
+}
